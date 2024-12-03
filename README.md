@@ -64,5 +64,6 @@ Access the API at http://127.0.0.1:8000.
 Features
 Manage tasks and preferences.
 Integration with Google APIs (Calendar, Gmail, etc.).
-License
+
+# License
 This project is licensed under the MIT License. See the LICENSE file for details.

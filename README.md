@@ -56,6 +56,7 @@ Start the API server:
 ```
 uvicorn main:app --reload
 ```
+
 # On macOS/Linux
 ```
 uvicorn main:app --reload

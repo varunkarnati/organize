@@ -1,0 +1,24 @@
+# Python cache and environment
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.env/
+venv/
+*.env
+
+# Logs and debugging
+*.log
+
+# Compiled Python files
+*.pyc
+
+# Database and credentials
+*.sqlite3
+*.db
+
+# Other files
+.DS_Store
+*.swp

@@ -1,0 +1,142 @@
+[
+    {
+        "email_id": "1938d1c17bab0d74",
+        "importance": "most important",
+        "subject": "DEADLINE APPROACHING",
+        "action_type": "task",
+        "action_details": {
+            "task": "Submit assignment before the deadline on or before 10th December 12 AM.",
+            "reply_needed": false,
+            "reply_message": null,
+            "event_date": "2024-12-10T00:00:00+05:30",
+            "event_end_date": "2024-12-10T00:00:00+05:30",
+            "timezone": "IST"
+        }
+    },
+    {
+        "email_id": "1938cc25b89db839",
+        "importance": "important",
+        "subject": "\u201csoftware engineer\u201d: WallMag - Software Engineer Intern and more",
+        "action_type": "task",
+        "action_details": {
+            "task": "Apply for the Software Engineer Intern position at WallMag.",
+            "reply_needed": false,
+            "reply_message": null,
+            "event_date": null,
+            "event_end_date": null,
+            "timezone": null
+        }
+    },
+    {
+        "email_id": "1938c8b567d5ac7c",
+        "importance": "important",
+        "subject": "\u201csoftware engineer intern\u201d: Progress - Software Engineer, Intern and more",
+        "action_type": "task",
+        "action_details": {
+            "task": "Apply for the Software Engineer Intern position at Progress.",
+            "reply_needed": false,
+            "reply_message": null,
+            "event_date": null,
+            "event_end_date": null,
+            "timezone": null
+        }
+    },
+    {
+        "email_id": "1938c5456591673f",
+        "importance": "important",
+        "subject": "\u201csoftware engineer intern\u201d: Progress - Software Engineer, Intern and more",
+        "action_type": "task",
+        "action_details": {
+            "task": "Apply for the Software Engineer Intern position at Progress.",
+            "reply_needed": false,
+            "reply_message": null,
+            "event_date": null,
+            "event_end_date": null,
+            "timezone": null
+        }
+    },
+    {
+        "email_id": "1938cc010545e311",
+        "importance": "normal",
+        "subject": "MEETING INVITE",
+        "action_type": "task",
+        "action_details": {
+            "task": "Reply to Varun Karnati regarding meeting attendance and confirm attendance.",
+            "reply_needed": true,
+            "reply_message": "Subject: Re: MEETING INVITE\nHi Varun,\nYes, I can attend the meeting at 5 PM tomorrow. Thanks!",
+            "event_date": null,
+            "event_end_date": null,
+            "timezone": "IST"
+        }
+    },
+    {
+        "email_id": "1938d1499ed25a27",
+        "importance": "normal",
+        "subject": "What happened to the TCS 25/25 model?",
+        "action_type": "normal",
+        "action_details": {
+            "task": "Read the email response and take note of the contents",
+            "reply_needed": false,
+            "reply_message": null,
+            "event_date": null,
+            "event_end_date": null,
+            "timezone": null
+        }
+    },
+    {
+        "email_id": "1938cf885de9d6b8",
+        "importance": "normal",
+        "subject": "Swiggy Q2 results, Mazagon Dock's first stock split, & more - Groww Digest",
+        "action_type": "normal",
+        "action_details": {
+            "task": "Read the Groww Digest",
+            "reply_needed": false,
+            "reply_message": null,
+            "event_date": null,
+            "event_end_date": null,
+            "timezone": null
+        }
+    },
+    {
+        "email_id": "1938cbd7587a255c",
+        "importance": "normal",
+        "subject": "Which Indian stock doubles in 2026?",
+        "action_type": "normal",
+        "action_details": {
+            "task": "Read the Quora response regarding the Indian stock",
+            "reply_needed": false,
+            "reply_message": null,
+            "event_date": null,
+            "event_end_date": null,
+            "timezone": null
+        }
+    },
+    {
+        "email_id": "1938ca838dcbf7e7",
+        "importance": "normal",
+        "subject": "New jobs posted from careers.springernature.com",
+        "action_type": "task",
+        "action_details": {
+            "task": "Review the new job postings from Springer Nature.",
+            "reply_needed": false,
+            "reply_message": null,
+            "event_date": null,
+            "event_end_date": null,
+            "timezone": null
+        }
+    },
+    {
+        "email_id": "1938d066963126c4",
+        "importance": "least important",
+        "subject": "\ud83d\ude80 Adani stocks rise, SMCI stock surges 29%, and more | IND Daily 3rd December 2024",
+        "action_type": "normal",
+        "action_details": {
+            "task": "Read the IND Daily update.",
+            "reply_needed": false,
+            "reply_message": null,
+            "event_date": null,
+            "event_end_date": null,
+            "timezone": null
+        }
+    }
+]

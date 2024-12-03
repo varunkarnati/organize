@@ -12,6 +12,7 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/varunkarnati/organize.git
 cd your_repository
+```
 2. Set Up the Environment
 Install Required Python Packages
 Ensure you have Python installed. Then, create a virtual environment and install the required packages:

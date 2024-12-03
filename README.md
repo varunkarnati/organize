@@ -55,8 +55,9 @@ Start the API server:
 # On Windows
 ```
 uvicorn main:app --reload
-
+```
 # On macOS/Linux
+```
 uvicorn main:app --reload
 ```
 Access the API at http://127.0.0.1:8000.

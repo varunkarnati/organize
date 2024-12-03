@@ -1,4 +1,4 @@
-# Project Title
+# Organize
 
 This project provides an API for managing tasks, preferences, and other features. Follow the instructions below to set up and run the project.
 
